@@ -11,5 +11,5 @@ window.onload = function () {
   //}
 
   function calculateCircumference(radius) {
-    return 2 * Math.PI * radius;
+    return Math.PI * radius * radius;
   }
