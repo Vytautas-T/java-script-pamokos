@@ -3,7 +3,7 @@ window.onload = function() {
     let b = 8;
     let c = 12;
 
-    rezultatas = apskaiciavimas (a,b,c,)
+    let rezultatas = apskaiciavimas (a,b,c,)
 
     console.log ("turis " + rezultatas);
 }
